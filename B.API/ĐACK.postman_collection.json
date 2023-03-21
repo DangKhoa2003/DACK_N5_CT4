@@ -35,7 +35,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"username\":\"minh258\",\r\n    \"email\":\"minh123@gmail.com\",\r\n    \"password\":\"minh123\"\r\n}",
+							"raw": "{\r\n    \"username\":\"tai123\",\r\n    \"email\":\"tai123@gmail.com\",\r\n    \"password\":\"tai123\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"

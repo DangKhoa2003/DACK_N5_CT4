@@ -28,7 +28,7 @@ import java.io.IOException;
 @Test
 public class testcase8 {
     public static void testcase08() {
-        /*Chức năng nhập mã giảm giá (vì trang k có nên đã thay thế bằng chức năng tìm size phù hợp với mua)
+        /*Chức năng đặt hàng sau khi cập nhật số lượng
             B1: vào trang web Yame
             B2: Click vào bộ sưu tập
             B3: Click vào Y2010 ORIGINALS
